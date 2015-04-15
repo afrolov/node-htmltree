@@ -1,0 +1,23 @@
+{
+  "name": "htmltree",
+  "main": "index.js",
+  "version": "0.0.4",
+  "homepage": "https://github.com/defunctzombie/node-htmltree",
+  "authors": [
+    "Roman Shtylman <shtylman@gmail.com"
+  ],
+  "description": "simple tree data structure for html source",
+  "moduleType": [
+    "node",
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+  ],
+  "dependencies": {
+      "sax": "git://github.com/afrolov/sax-js#0.6.1"
+  },
+  "devDependencies": {
+    "mocha": "git://github.com/mochajs/mocha#2.2.4"
+  }
+} 
